@@ -1,0 +1,44 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+/dist
+
+# local development server
+.env
+.env.*.local
+.env.local
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+
+# virtual environments
+.venv
+venv/
+env/
+
+# compiled python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# editor files
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# database files
+*.sqlite3
+
+# misc
+.DS_Store
